@@ -1,0 +1,3 @@
+D:/ALGO/Google Code Jam/2021/Qualification Round/Reversort Engineering/cmake-build-debug/CMakeFiles/Reversort_Engineering.dir
+D:/ALGO/Google Code Jam/2021/Qualification Round/Reversort Engineering/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ALGO/Google Code Jam/2021/Qualification Round/Reversort Engineering/cmake-build-debug/CMakeFiles/rebuild_cache.dir

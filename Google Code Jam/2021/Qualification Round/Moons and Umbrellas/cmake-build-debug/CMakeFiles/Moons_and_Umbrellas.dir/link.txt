@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Moons_and_Umbrellas.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Moons_and_Umbrellas.dir/objects.a @CMakeFiles\Moons_and_Umbrellas.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Moons_and_Umbrellas.dir/objects.a -Wl,--no-whole-archive  -o Moons_and_Umbrellas.exe -Wl,--out-implib,libMoons_and_Umbrellas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Moons_and_Umbrellas.dir\linklibs.rsp

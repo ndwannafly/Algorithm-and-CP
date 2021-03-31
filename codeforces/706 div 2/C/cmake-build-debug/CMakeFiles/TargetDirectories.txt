@@ -1,0 +1,3 @@
+D:/codeforces/706 div 2/C/cmake-build-debug/CMakeFiles/C.dir
+D:/codeforces/706 div 2/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codeforces/706 div 2/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

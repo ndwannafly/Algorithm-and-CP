@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Trailing_Zeros.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Trailing_Zeros.dir/objects.a @CMakeFiles\Trailing_Zeros.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Trailing_Zeros.dir/objects.a -Wl,--no-whole-archive  -o Trailing_Zeros.exe -Wl,--out-implib,libTrailing_Zeros.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Trailing_Zeros.dir\linklibs.rsp

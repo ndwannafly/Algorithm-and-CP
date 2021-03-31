@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Limited_Moves.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Limited_Moves.dir/objects.a @CMakeFiles\Limited_Moves.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Limited_Moves.dir/objects.a -Wl,--no-whole-archive  -o Limited_Moves.exe -Wl,--out-implib,libLimited_Moves.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Limited_Moves.dir\linklibs.rsp
